@@ -37,12 +37,12 @@ body{
 }
 
 .corps{
-	position: absolute;
+	position: relative;
 	height: 40vw;
-	width: 100vw;
+	width: 98vw;
 }
 footer{
-	position: absolute;
+	position: relative;
 	bottom: 0;
 	left: 0;
 	right: 0;
